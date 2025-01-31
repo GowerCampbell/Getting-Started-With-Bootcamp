@@ -41,12 +41,8 @@ By the end of this bootcamp, you'll be comfortable using Git to manage your proj
 In this repository, I've explored the following topics:
 
 1. **Basic Python Syntax**
-   Python is a high-level, interpreted programming language known for its simplicity and readability. It is widely used in:
-   - Web development
-   - Data analysis
-   - Artificial intelligence
-   - Automation
-   - And much more!
+   - Writing my first Python programs.
+   - Understanding Python's structure and rules.
 
 2. **Variable Declarations and Data Types**
    - Storing data using variables.
