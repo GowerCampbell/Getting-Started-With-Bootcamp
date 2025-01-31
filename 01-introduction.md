@@ -70,6 +70,7 @@ To explore the different topics, check out the linked files below:
 2. [Casting and Type Conversion](03-casting.md) - Understand how to convert between data types.
 3. [Input and Output](04-input-output.md) - Get user input and display output in my programs.
 4. [Git Basics](06-git-basics.md) - Introduction to Git and version control.
+5. [VSC Extension](07-vsc-extension.md) - Installed into my software for visual studio code.
 
 ---
 
