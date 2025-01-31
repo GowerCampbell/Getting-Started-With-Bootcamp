@@ -12,7 +12,7 @@ Welcome to the **Getting Started with Bootcamp** repository! This repository con
 
 ## CoGrammar BootCamp Tasks
 - [Class Knotes](CoGrammar-BootCamp-Tasks/knotes.py)
-- [Hello World](/CoGrammar-Bootcamp-Tasks/hello_world.py)
+- [Hello World](/CoGrammar-Bootcamp-Tasks/hello-world.py)
 - [Conversion](/CoGrammar-Bootcamp-Tasks/conversion.py)
 
 ## Usage
