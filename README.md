@@ -10,6 +10,11 @@ Welcome to the **Getting Started with Bootcamp** repository! This repository con
 4. [Input and Output](04-input-output.md)
 5. [Password Checker Example](05-password-checker.md)
 
+## CoGrammar BootCamp Tasks
+- [Class Knotes](./Cogrammar-Bootcamp-Tasks/knotes.py)
+- [Hello World](./Cogrammar-Bootcamp-Tasks/hello_world.py)
+- [Conversion](./Cogrammar-Bootcamp-Tasks/conversion.py)
+
 ## Usage
 
 To use this repository, clone it to your local machine and open the files in your preferred code editor (e.g., Visual Studio Code). Each `.md` file contains explanations and links to relevant Python examples in the `examples/` folder.
