@@ -42,7 +42,7 @@ In this repository, I've explored the following topics:
 
 1. **Basic Python Syntax**
    - Writing my first Python programs.
-   - Understanding Python's structure and rules.
+   - Understanding Python's structure and rules such as snake_case (lower case) file formats.
 
 2. **Variable Declarations and Data Types**
    - Storing data using variables.
