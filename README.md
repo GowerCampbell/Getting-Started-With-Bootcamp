@@ -1,4 +1,4 @@
-# Getting Started with my Coding Bootcamp
+# Getting Started with My Coding Bootcamp
 
 Welcome to the **Getting Started with Bootcamp** repository! This repository contains my notes, examples, and code snippets from the first week of my coding bootcamp. The focus is on learning Python fundamentals, including variables, data types, input/output, and basic programming concepts.
 
