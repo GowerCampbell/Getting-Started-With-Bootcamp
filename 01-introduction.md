@@ -69,7 +69,7 @@ To explore the different topics, check out the linked files below:
 1. [Variables and Data Types](02-variables.md) - Learning how to declare and use variables in Python.
 2. [Casting and Type Conversion](03-casting.md) - Understand how to convert between data types.
 3. [Input and Output](04-input-output.md) - Get user input and display output in my programs.
-4. [Git Basics](05-git-basics.md) - Introduction to Git and version control.
+4. [Git Basics](06-git-basics.md) - Introduction to Git and version control.
 
 ---
 
