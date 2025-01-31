@@ -11,9 +11,9 @@ Welcome to the **Getting Started with Bootcamp** repository! This repository con
 5. [Password Checker Example](05-password-checker.md)
 
 ## CoGrammar BootCamp Tasks
-- [Class Knotes](./Cogrammar-Bootcamp-Tasks/knotes.py)
-- [Hello World](./Cogrammar-Bootcamp-Tasks/hello_world.py)
-- [Conversion](./Cogrammar-Bootcamp-Tasks/conversion.py)
+- [Class Knotes](CoGrammar-BootCamp-Tasks/knotes.py)
+- [Hello World](/CoGrammar-Bootcamp-Tasks/hello_world.py)
+- [Conversion](/CoGrammar-Bootcamp-Tasks/conversion.py)
 
 ## Usage
 
