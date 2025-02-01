@@ -28,8 +28,3 @@ These tools have significantly improved my productivity and workflow. For exampl
 - **Flake8** ensures my Python code is clean and adheres to best practices.
 
 I’m excited to explore these tools further and integrate them into my future projects!
-
----
-
-**Date**: [Insert Date]  
-**Author**: [Your Name]  
